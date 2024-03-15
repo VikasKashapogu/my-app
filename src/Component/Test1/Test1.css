@@ -1,0 +1,13 @@
+.header{
+    display:flex;
+    justify-content:space-around;
+    background-color: grey;
+    align-self: center;
+   
+    padding-top: 10px;
+    box-sizing: border-box;
+    
+}
+.firstend{
+    margin-right: 300px;
+}

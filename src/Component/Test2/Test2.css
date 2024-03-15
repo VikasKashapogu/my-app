@@ -1,0 +1,18 @@
+.card{
+    display:inline-block;
+    margin-left: 70px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.logo{
+    position:relative;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+   top:-25px;
+   left: 10px;
+    
+}
+.linehei{
+    line-height: 2px;
+}
